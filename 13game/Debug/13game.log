@@ -1,0 +1,4 @@
+﻿  13game.cpp
+     正在建立程式庫 C:\Users\user\Desktop\13game\13game\Debug\13game.lib 和物件 C:\Users\user\Desktop\13game\13game\Debug\13game.exp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 無法解析的外部符號 _main 在函式 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中被參考
+C:\Users\user\Desktop\13game\13game\Debug\13game.exe : fatal error LNK1120: 1 個無法解析的外部符號
